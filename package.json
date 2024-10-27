@@ -1,0 +1,17 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "Hey there this is the description about our course.",
+  "main": "index1.js",
+  "scripts": {
+    "start": "node index1.js"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "Kanishka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
